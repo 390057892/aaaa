@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="RightPadding" format="dimension">
+    </attr>
+
+    <declare-styleable name="menu">
+        <attr name="RightPadding">
+
+        </attr>
+    </declare-styleable>
+
+
+</resources>
